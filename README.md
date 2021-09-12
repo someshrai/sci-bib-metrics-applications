@@ -1,1 +1,1 @@
-# sci-bib-metrics-applications
+# sci-bib-metrics-bibliography
